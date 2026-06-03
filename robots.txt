@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://AmanChandrakar.github.io/sitemap.xml
+Sitemap: https://aman-chandrakar.github.io/AmanChandrakar.github.io/sitemap.xml
